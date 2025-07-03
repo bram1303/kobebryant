@@ -1,0 +1,38 @@
+body {
+  margin: 3px;
+}
+
+.title {
+  padding: 20px;
+  border: 10px solid rgb(153, 0, 255);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+
+.h6 {
+  font-family: Roboto;
+  text-align: justify;
+  font-weight: 100;
+  font-size: 400;
+}
+.artist {
+  padding: 10px;
+  border: 5px solid gold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+
+.picture img {
+  width: 500px;
+  height: 500px;
+}
+.lyrics {
+  text-align: center;
+  font-size: 30px;
+}
+.name {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: left;
+  font-size: 30px;
+  background-color: royalblue;
+}
